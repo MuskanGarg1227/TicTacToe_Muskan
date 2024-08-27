@@ -33,7 +33,7 @@ string result_win(){
 
 string result_draw(){
   if(sq[0] !=0 && sq[1] !=1 && sq[2] !=2 && sq[3]!=3 && sq[4] !=4 && sq[5] !=5 && sq[6] !=6 && sq[7] !=7 && sq[8] !=8 ){
-    return "Game Draw"; //draw situation
+    return "Game Draw"; 
   }
   return "";
 }
