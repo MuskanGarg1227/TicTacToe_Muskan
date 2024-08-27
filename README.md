@@ -1,8 +1,6 @@
 # TicTacToe_Muskan
 
-Tic-Tac-Toe Game
-
-This project is a console-based implementation of the classic Tic-Tac-Toe game, developed in C++. It allows two players to take turns and play the game, with built-in logic to detect wins, draws, and validate player inputs.
+Tic-Tac-Toe Game - It is a two-player game implemented in C++. Players alternate turns placing Xs and Os on a 3×3 board, aiming to align three in a row horizontally, vertically, or diagonally. The game ends when a player wins by achieving this, or when the board is fully occupied, resulting in a draw. The board is managed using a 2D array, and moves are input through the console with validation checks ensuring proper gameplay.
 
 Features:
 
